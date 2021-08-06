@@ -12,6 +12,9 @@ Chris Bacani is the sole author of this Python project.
 ### Description
 This project focuses on **pandas** library usage and simple statistics methods to perform a rudimentary analysis on the bikeshare data from three major U.S. cities - **Chicago, Washington, and New York City** - to display information such as most popular days or most common stations.
 
+### Build
+THis project was built in Python using the Pandas, Numpy, and Time libraries.
+
 ### Files used
 The data that powered the project comes from the following datasets:
 - chicago.csv : Dataset containing all bikeshare information for the City of Chicago, provided by Udacity
